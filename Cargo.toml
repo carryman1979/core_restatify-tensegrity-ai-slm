@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "crates/tg-policy",
+  "crates/tg-fold",
+  "crates/tg-sync",
+]
+resolver = "2"

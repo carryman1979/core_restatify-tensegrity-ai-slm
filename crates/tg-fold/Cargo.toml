@@ -1,0 +1,11 @@
+[package]
+name = "tg-fold"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tg-policy = { path = "../tg-policy" }
+
+[lib]
+name = "tg_fold"
+path = "src/lib.rs"
