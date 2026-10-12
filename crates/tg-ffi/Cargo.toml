@@ -1,0 +1,11 @@
+[package]
+name = "tg-ffi"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["rlib", "cdylib"]
+
+[dependencies]
+tg-policy = { path = "../tg-policy" }
+tg-fold = { path = "../tg-fold" }
