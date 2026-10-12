@@ -3,5 +3,6 @@ members = [
   "crates/tg-policy",
   "crates/tg-fold",
   "crates/tg-sync",
+  "crates/tg-learn",
 ]
 resolver = "2"
