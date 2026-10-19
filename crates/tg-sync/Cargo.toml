@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 tg-policy = { path = "../tg-policy" }
 tg-fold = { path = "../tg-fold" }
+sha2 = "0.10"
