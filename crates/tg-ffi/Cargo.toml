@@ -9,3 +9,4 @@ crate-type = ["rlib", "cdylib"]
 [dependencies]
 tg-policy = { path = "../tg-policy" }
 tg-fold = { path = "../tg-fold" }
+tg-infer = { path = "../tg-infer" }

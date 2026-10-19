@@ -4,6 +4,7 @@ members = [
   "crates/tg-fold",
   "crates/tg-sync",
   "crates/tg-learn",
+  "crates/tg-infer",
   "crates/tg-ffi",
 ]
 resolver = "2"
